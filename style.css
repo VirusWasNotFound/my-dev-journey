@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: orangered;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+    color: #D4AA7D;
+}
+
+ul{
+    line-height: 1.6;
+}
